@@ -1,6 +1,6 @@
 # infomentor-technical-writer-
-Highlights and Accomplishments 
-# Hi, I am Kristy Billings 👋
+## Highlights and Accomplishments 
+Hi, I am Kristy Billings 👋
 
 ## Senior Technical Writer | Documentation Leader | AI Content Strategist
 
