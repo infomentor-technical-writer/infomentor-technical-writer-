@@ -1,4 +1,4 @@
-# infomentor-technical-writer-
+# infomentor-technical-writer
 ## Highlights and Accomplishments 
 Hi, I am Kristy Billings 👋
 
